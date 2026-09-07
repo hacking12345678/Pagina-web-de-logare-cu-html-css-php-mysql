@@ -1,4 +1,4 @@
-Pagină de logare pentru testere atacurile de tip MITM (Omul din miljloc) și altele.
+Pagină de logare pentru testare
 
 
 Instalare pe Linux 
